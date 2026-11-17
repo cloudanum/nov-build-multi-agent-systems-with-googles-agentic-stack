@@ -13,7 +13,7 @@
 - **Interactive Animated SVG Architecture Atlas (`20` Live SVGs):** [Thales_DIS_Animated_Architecture_Atlas.html](Thales_DIS_Animated_Architecture_Atlas.html)
 - **Customized 1-Page Instructor Profile:** [instructor-profile.pdf](instructor-profile/instructor-profile.pdf) | [instructor-profile.docx](instructor-profile/instructor-profile.docx)
 - **Live 12-Question Kahoot:** https://create.kahoot.it/details/1346d51c-70bc-4630-ae60-dad821d53395 ([kahoots/README.md](kahoots/README.md))
-- **Captioned Lab Walkthrough Video:** [lab01-walkthrough-enhanced.mp4](lab-walkthroughs/lab01-walkthrough-enhanced.mp4)
+- **Extensive 1080p 30fps Lab Walkthrough Suite (Master ~10-Min Video + 4 Per-Task Chapter Videos + Illustrated Guide PDF):** [lab01-walkthrough-enhanced.mp4](lab-walkthroughs/lab01-walkthrough-enhanced.mp4) | [Lab_Walkthrough_Complete_Guide_CI-MAA.pdf](lab-walkthroughs/Lab_Walkthrough_Complete_Guide_CI-MAA.pdf) | [lab-walkthroughs/README.md](lab-walkthroughs/README.md)
 
 ## Quick-Access Event Links
 
